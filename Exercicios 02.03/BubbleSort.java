@@ -4,7 +4,7 @@ public class BubbleSort {
 
     //Função para aplicar o BubbleSort
     public static void Sort(int[] vetor) {
-        //Ciação de variáveis para auxilar no codigo
+        //Criação de variáveis para auxilar no codigo
         int aux, tamanho = vetor.length;
         boolean valorTrocar = false;
 
