@@ -12,7 +12,7 @@ public class BubbleSort {
             if(i == tamanho) { //Se i igual ao tamanho do vetor:
                 if(!valorTrocar) break; //Se a varariável "valorTroca" for VERDADEIRA, encerra o laço
 
-                //Caso nãa esteja tudo OK!
+                //Caso não esteja tudo OK!
                 valorTrocar = false;
                 i = 1;
             }
