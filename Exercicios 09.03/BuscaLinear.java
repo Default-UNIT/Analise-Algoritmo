@@ -13,9 +13,6 @@ public class BuscaLinear {
                 i++;
             }
         }
-
-        JOptionPane.showMessageDialog(null, "O número " + numDigitado + " não foi encontrado na Busca");
-
     }
 
 
