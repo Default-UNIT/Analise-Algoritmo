@@ -14,5 +14,5 @@
 * 02 de mar: [BubbleSort](https://github.com/Default-UNIT/Analise-Algoritmo/tree/main/Exercicios%2002.03)
   * [Java](https://github.com/Default-UNIT/Analise-Algoritmo/blob/main/Exercicios%2002.03/BubbleSort.java)
   * [Python](https://github.com/Default-UNIT/Analise-Algoritmo/blob/main/Exercicios%2002.03/BubbleSort.py)
-* 09 de mar: [Revisão Vetores](https://github.com/Default-UNIT/Analise-Algoritmo/tree/main/Exercicios%2009.03)
+* 09 de mar: [Busca Linear/Sequencial](https://github.com/Default-UNIT/Analise-Algoritmo/tree/main/Exercicios%2009.03)
   * [Java](https://github.com/Default-UNIT/Analise-Algoritmo/blob/main/Exercicios%2009.03/BuscaLinear.java)
