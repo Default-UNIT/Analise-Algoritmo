@@ -16,3 +16,5 @@
   * [Python](https://github.com/Default-UNIT/Analise-Algoritmo/blob/main/Exercicios%2002.03/BubbleSort.py)
 * 09 de mar: [Busca Linear/Sequencial](https://github.com/Default-UNIT/Analise-Algoritmo/tree/main/Exercicios%2009.03)
   * [Java](https://github.com/Default-UNIT/Analise-Algoritmo/blob/main/Exercicios%2009.03/BuscaLinear.java)
+* 23 de mar: [Seminário - Suite de Ordenação](https://github.com/Default-UNIT/Analise-Algoritmo/tree/main/Seminário%20-%20Suite%20de%20Ordenação)
+  * [Java](https://github.com/Default-UNIT/Analise-Algoritmo/tree/main/Seminário%20-%20Suite%20de%20Ordenação)
